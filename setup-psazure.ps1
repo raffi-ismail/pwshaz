@@ -1,2 +1,2 @@
-Install-Module -Name Az,AzureRM,PartnerCenter -AllowClobber -Force
+Install-Module -Name Az,PartnerCenter -AllowClobber -Force
 

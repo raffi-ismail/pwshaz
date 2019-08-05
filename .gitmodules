@@ -1,0 +1,3 @@
+[submodule "pwsh4partners"]
+	path = pwsh4partners
+	url = https://github.com/Brucius/PowerShell-for-Partners.git
